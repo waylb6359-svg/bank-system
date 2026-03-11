@@ -187,7 +187,6 @@ public:
             case 5: {
                 system("cls"); 
                 updatePassword(client);
-				//up file
                 system("pause");
                 break;
             }
