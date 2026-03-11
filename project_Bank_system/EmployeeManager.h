@@ -195,7 +195,6 @@ public:
             switch (choice) {
             case 1:
                 newClient(employee);
-                //up file
                 break;
             case 2:
                 listAllClients(employee);
@@ -205,12 +204,10 @@ public:
                 break;
             case 4:
                 editClientInfo(employee);
-                //up file
 
                 break;
             case 5:
                 updatePassword(employee);
-                //up file
 
                 break;
             case 6:
