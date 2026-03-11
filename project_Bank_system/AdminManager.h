@@ -304,8 +304,6 @@ public:
                 break;
             case 5:
                 addEmployee(admin);
-                //up file
-
                 break;
             case 6:
                 listAllEmployees(admin);
@@ -315,12 +313,10 @@ public:
                 break;
             case 8:
                 editEmployeeInfo(admin);
-                //up file
 
                 break;
             case 9:
                 addAdmin(admin);
-                //up file
 
                 break;
             case 10:
@@ -328,7 +324,6 @@ public:
                 break;
             case 11:
                 updatePassword(admin);
-                //up file
 
                 break;
             case 12:
